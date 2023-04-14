@@ -1,0 +1,24 @@
+Considere o seguinte documento HTML:
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html lang="pt-BR">
+<head>
+    <title>Testing attributes</title>
+</head>
+<body>
+    <p>What is the lang attribute about?</p>
+</body>
+</html>
+
+Ao utilizar o atributo “lang” do elemento “html”, o desenvolvedor tinha a intenção de fazer algum tipo de manipulação ou especificação envolvendo o idioma da página. Observe um detalhe interessante: o código “pt-BR” se refere ao idioma português do Brasil. Por outro lado, o conteúdo da página está em inglês.
+
+Analise as seguintes proposições:
+
+I. O atributo lang utilizado pelo desenvolvedor tem como finalidade instruir o navegador a traduzir a página, o que quer dizer que ela será apresentada em português para o usuário.
+
+II. O uso do atributo lang está incorreto. Ele deveria ser utilizado como atributo de DOCTYPE.
+
+III. Embora o atributo lang indique o idioma português do Brasil e o conteúdo textual esteja em inglês, o navegador é capaz de abrir a página, ainda que apresente eventuais erros.
+
+Respota: III

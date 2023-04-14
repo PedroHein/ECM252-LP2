@@ -1,0 +1,29 @@
+Os alunos de uma instituição têm acesso a um programa de monitoria. Neste programa, alunos veteranos oferecem conteúdo, exercícios e fazem plantões de dúvidas. Um dos exercícios propostos envolve o seguinte código.
+
+/*arquivo q8.css*/
+.texto {
+    color: red;
+}
+
+p{
+    color: green;
+}
+
+<!-- arquivo q8.html -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="q8.css">
+    <title>CSS</title>
+</head>
+<body>
+    <p class="texto">Qual cor?</p>
+</body>
+</html>
+
+Alguns alunos estão discutindo sobre o exercício. Mateus acredita que a cor que prevalece é determinada pelo efeito cascata do CSS. Ana Beatriz acredita que os seletores apresentados têm especificidades diferentes. Cadu acredita que alterar a ordem em que os seletores são apresentados altera o resultado final.
+
+Qual(is) alunos(as) estão correto(as)?
+
+Resposta: Ana Beatriz, apenas.

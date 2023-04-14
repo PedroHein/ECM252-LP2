@@ -1,0 +1,38 @@
+Considere o seguinte trecho de código.
+Nota. Para esta questão, lembre-se da aba “computed” do Chrome Dev Tools. Há exemplos nas apostilas.
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8">
+    <title>Box model e box sizing</title>
+    <style>
+        p{
+            box-sizing: border-box;
+            padding: 10px;
+            width: 300px;
+            background-color: green;
+        }
+        
+        div{
+            box-sizing: content-box;
+            padding-left: 10px;
+            padding-right: 10px;
+            width: 300px;
+            background-color: green;
+        }
+    </style>
+</head>
+<body>
+    <p>Parágrafo</p>
+    <h1>No meaning at all</h1>
+</body>
+</html>
+
+Agora analise as seguintes proposições.
+
+I. Na aba computed, as larguras resultantes (soma de width e padding à esquerda e à direita) do elemento “p” e do elemento “div” são iguais.
+II. Na aba computed, o valor de “width” do elemento “p” é igual a 290px.
+III.Na aba computed, os valores de “width” dos elementos “p” e “div” são diferentes.
+
+Resposta: III

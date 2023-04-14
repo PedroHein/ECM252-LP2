@@ -1,0 +1,30 @@
+Considere o seguinte documento HTML:
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Nomes</title>
+</head>
+<body>
+    <h1>Lista de Nomes</h1>
+    <ol>
+        <li>Antonio</li>
+        <li>Rodrigo</li>
+        <li>Jaqueline</li>
+        <li>João</li>
+    </ol>
+</body>
+</html>
+
+A missão do desenvolvedor é fazer com que a página exiba uma lista de nomes ordenada alfabeticamente, de cima para baixo. Considere que a página não está sob efeito de nenhum código CSS e que os valores padrão para os atributos relevantes para essa questão são aqueles utilizados pelos navegadores mais comuns, como Chrome, Edge, Firefox, Safari etc.
+
+Analise as seguintes proposições.
+
+I. O desenvolvedor conseguiu cumprir a sua missão.
+
+II. Ainda que “ol” signifique “ordered list”, alterar a ordem dos elementos “li” (de “list item”) filhos de ol pode fazer com que o desenvolvedor falhe no cumprimento de sua missão.
+
+III. A exibição em ordem alfabética é garantida pelo elemento HTML “ol”, que significa “ordered list”. Caso o elemento “ol” seja alterado para “ul”, de “unordered list”, o desenvolvedor terá falhado no cumprimento da missão.
+
+Respostas: I e II

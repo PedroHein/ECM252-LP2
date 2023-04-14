@@ -1,0 +1,15 @@
+Dois alunos, Daniel e Carlos, conversam sobre o uso do elemento HTML “table”. 
+
+Daniel está preocupado com a disposição visual dos elementos de sua página, ou seja, com o leiaute dela. Ele acredita que utilizar o elemento table pode ser uma boa ideia para organizar os elementos na página. 
+
+Carlos, por sua vez, está inclinado a concordar com Daniel. Ele ainda adicionou à conversa a seguinte consideração: você poderia utilizar o elemento HTML “table” tanto para o leiaute quanto para a exibição de dados tabulares. Entretanto, ele leu algo sobre a metodologia “tableless”. Como foi a primeira vez que estudou sobre isso, os conceitos não ficaram muito claros. 
+
+Após novas discussões e estudos, os dois concluíram que, na verdade, não se deve utilizar elementos HTML “table”.
+
+Analise as seguintes proposições.
+
+I. Daniel estava correto quando acreditava ser apropriado organizar o leiaute de sua página usando um elemento HTML “table”.
+II. Ao adicionar a consideração descrita, Carlos estava parcialmente correto. Ele só esqueceu de comentar que o uso do elemento HTML “table” para leiaute e dados tabulares deveria ser mutuamente exclusivo numa página. Ou seja, se uma página o utiliza para organizar seu leiaute, ela não deve utilizá-lo para a exibição de dados tabulares. E vice-versa.
+III. A conclusão a que ambos chegaram sobre não utilizar o elemento HTML “table” está parcialmente correta, já que há formas de uso apropriadas e inapropriadas para ele.
+
+Resposta: III

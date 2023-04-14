@@ -1,0 +1,41 @@
+Dois desenvolvedores, Maria e João,  estão envolvidos no desenvolvimento de um portal para fazer a venda de cosméticos. A exibição de um item precisa conter:
+
+- um cabeçalho
+- um corpo com dois elementos textuais
+- um rodapé
+
+João fez uma primeira proposta, veja:
+<div class="item-cosmetico">
+    <div class="cabecalho">
+        Batom
+    </div>
+    <div class="corpo">
+        <p>Vermelho</p>
+        <p>O melhor para voce</p>
+    </div>
+    <div class="rodape">Batons XYZ</div>
+</div>
+
+Maria analisou o código e fez algumas sugestões de alteração. O resultado foi esse:
+<article>
+    <header>
+        <p>Batom</p>
+    </header>
+    <div>
+        <p>Vermelho</p>
+        <p>Coleção tons marcantes</p>
+    </div>
+    <footer>Batons XYZ - A melhor marca</footer>
+</article>
+
+Considere que as classes CSS sequer existem. Elas estão sendo utilizadas apenas com o intuito de promover a legibilidade do código.
+
+Diante do cenário descrito, analise as seguintes proposições.
+
+I. O código de João faz uso de elementos HTML semânticos, o que pode ser comprovado pela aplicação das classes CSS, cujos nomes deixam clara a razão de ser de cada elemento HTML.
+
+II. No código de Maria, o uso do elemento “footer” é inapropriado, pois ele é filho de um elemento “article” e sabemos que somente o “body” de um documento HTML pode ter um rodapé.
+
+III. No que diz respeito ao uso de elementos HTML semânticos, o código de Maria é mais condizente com as boas práticas do que o código de João.
+
+Resposta: III

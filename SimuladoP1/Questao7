@@ -1,0 +1,17 @@
+Considere o seguinte seletor CSS
+
+.principal p#promocao
+
+Qual frase descreve corretamente os elementos HTML afetados por ele?
+
+a. Todo elemento que tenha a classe principal ou todo elemento “p” que tenha o id promocao.
+
+b. Todo elemento “p” que tenha o id promocao que seja descendente de um elemento que tenha a classe     principal.
+
+c. Todo elemento “p” que tenha a classe promocao que seja descendente de um elemento que tenha a classe principal.
+
+d. Todo elemento “p” que tenha o id promocao que seja filho direto de um elemento que tenha a classe principal.
+
+e. Na verdade,este não é um seletor CSS válido.
+
+Rsposta: b
