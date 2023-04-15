@@ -20,3 +20,7 @@ II. Caso o navegador seja configurado para abrir o arquivo utilizando o encoding
 III. Caso o desenvolvedor especifique o encoding utilizado pelo navegador na metatag, no lugar de UTF-8, ele resolverá o problema, ou seja, a letra com acento será exibida corretamente.
 
 Resposta: I
+
+- encoding: é a forma como os caracteres são armazenados no arquivo. O encoding UTF-8 é um dos mais utilizados atualmente.
+- meta charset: é a forma como o navegador interpreta o arquivo.
+- encoding e meta charset: são coisas diferentes.

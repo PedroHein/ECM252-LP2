@@ -15,3 +15,6 @@ d. Todo elemento “p” que tenha o id promocao que seja filho direto de um ele
 e. Na verdade,este não é um seletor CSS válido.
 
 Rsposta: b
+
+- A classe principal pode ser aplicada a qualquer elemento HTML. O id promocao só pode ser aplicado a um elemento HTML.
+- O seletor CSS .principal p#promocao significa que o elemento HTML que tenha o id promocao deve ser filho direto de um elemento HTML que tenha a classe principal.

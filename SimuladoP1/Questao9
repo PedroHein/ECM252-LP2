@@ -1,3 +1,6 @@
 Os atributos “itemscope” e "itemtype” podem ser aplicados a elementos HTML comuns, como um “h1”, um “article” e até um “video”. Além disso, seu uso está relacionado à especificação dos microdados de uma página.
 
 Resposta: Verdadeiro
+
+- itemtype: define o tipo de item que o elemento representa. Ex: itemtype="http://schema.org/Person"
+- itemscope: define que o elemento é um item. Ex: itemscope

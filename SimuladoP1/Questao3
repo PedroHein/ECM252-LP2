@@ -28,3 +28,6 @@ II. Ainda que “ol” signifique “ordered list”, alterar a ordem dos elemen
 III. A exibição em ordem alfabética é garantida pelo elemento HTML “ol”, que significa “ordered list”. Caso o elemento “ol” seja alterado para “ul”, de “unordered list”, o desenvolvedor terá falhado no cumprimento da missão.
 
 Respostas: I e II
+
+- ordered list: lista ordenada
+- unordered list: lista não ordenada

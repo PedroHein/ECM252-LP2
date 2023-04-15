@@ -25,7 +25,7 @@ Nota. Para esta questão, lembre-se da aba “computed” do Chrome Dev Tools. H
 </head>
 <body>
     <p>Parágrafo</p>
-    <h1>No meaning at all</h1>
+    <div>No meaning at all</div>
 </body>
 </html>
 
@@ -36,3 +36,8 @@ II. Na aba computed, o valor de “width” do elemento “p” é igual a 290px
 III.Na aba computed, os valores de “width” dos elementos “p” e “div” são diferentes.
 
 Resposta: III
+
+- border-box: o padding e a borda são contabilizados no width do elemento. Colocando um valor de px, esse será ja contando com o padding e a borda. Neste caso, seria 300px.
+- content-box: o padding e a borda não são contabilizados no width do elemento. Colocando um valor de px, o valor do width do elemento mais o padding e a borda. Neste caso, seria 320px.
+- width: largura do elemento
+- padding: espaçamento interno do elemento

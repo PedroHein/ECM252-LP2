@@ -27,3 +27,7 @@ Alguns alunos estão discutindo sobre o exercício. Mateus acredita que a cor qu
 Qual(is) alunos(as) estão correto(as)?
 
 Resposta: Ana Beatriz, apenas.
+
+- efeito cascata: é o efeito que ocorre quando um elemento HTML herda as propriedades de um elemento pai. Ex: <p style="color: blue">Temos cursos nas mais diversas áreas</p>
+- especificidade: é a ordem de prioridade que o CSS dá para os seletores. Ex: .texto {color: red;} tem mais prioridade que p {color: green;}
+- ordem de apresentação: é a ordem em que os seletores são apresentados no arquivo CSS. Ex: p {color: green;} tem mais prioridade que .texto {color: red;}

@@ -39,3 +39,15 @@ II. No código de Maria, o uso do elemento “footer” é inapropriado, pois el
 III. No que diz respeito ao uso de elementos HTML semânticos, o código de Maria é mais condizente com as boas práticas do que o código de João.
 
 Resposta: III
+
+- article: para artigos
+- header: para cabeçalho
+- footer: para rodapé
+- div: para divisão
+- p: para parágrafo
+- section: para seção
+- aside: para conteúdo secundário
+- main: para conteúdo principal
+- nav: para navegação
+- h1: para título
+- h2: para subtítulo

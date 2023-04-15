@@ -22,3 +22,6 @@ II. O uso do atributo lang está incorreto. Ele deveria ser utilizado como atrib
 III. Embora o atributo lang indique o idioma português do Brasil e o conteúdo textual esteja em inglês, o navegador é capaz de abrir a página, ainda que apresente eventuais erros.
 
 Respota: III
+
+- lang: Para indicar o idioma da página. O navegador pode usar essa informação para traduzir a página, por exemplo.
+- DOCTYPE: Para indicar o tipo de documento. O navegador pode usar essa informação para saber como interpretar o documento, por exemplo.

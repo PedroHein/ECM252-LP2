@@ -13,3 +13,5 @@ II. Ao adicionar a consideração descrita, Carlos estava parcialmente correto. 
 III. A conclusão a que ambos chegaram sobre não utilizar o elemento HTML “table” está parcialmente correta, já que há formas de uso apropriadas e inapropriadas para ele.
 
 Resposta: III
+
+- table: é um elemento HTML que representa uma tabela. É utilizado para organizar dados tabulares. Ex: <table> <tr> <td> </td> </tr> </table>

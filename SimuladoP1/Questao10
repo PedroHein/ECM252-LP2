@@ -14,3 +14,5 @@
 </html>
 
 Resposta: Verdadeiro
+
+- inline: é o tipo de CSS que é aplicado diretamente no elemento HTML. Ex: <p style="color: blue">Temos cursos nas mais diversas áreas</p>
